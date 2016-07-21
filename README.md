@@ -29,17 +29,64 @@ glide google工程师私人项目，在google项目中有用到。<br/>
 
 ------
 ##依赖注入
-butterknife好用不解释，除掉google推出的supportv4 design包引入项目最多的包，使用量说明一切问题<br/>
-[butterknife](https://github.com/JakeWharton/butterknife)<br/>
+butterknife好用不解释，除掉google推出的supportv4 design包引入项目最多的包，使用量说明一切问题
+
+[butterknife](https://github.com/JakeWharton/butterknife)
+
 dagger2 google依赖注入亲儿子，不需要解释了，快上车吧
-[dagger2]()
+
+[dagger2](https://github.com/google/dagger)
+
+dagger2的教程推荐[教程](https://github.com/luxiaoming/dagger2Demo)
 
 ---------
 ##数据库相关
-主要就是几个包 GreenDAO OrmLite LiteOrm。
+主要就是几个包
 
-没有横向对比，其中最快的应该是greendao，使用稍微复杂，使用最简单的liteorm。
+ [GreenDAO](https://github.com/greenrobot/greenDAO) 出了名的快，不是那么容易使用，所有和数据库相关的类都需要提前生成
+ 
+ OrmLite 
+ 
+ [LiteOrm](https://github.com/litesuits/android-lite-orm)
+
+我没有横向对比，其中最快的应该是greendao，**使用稍微复杂**，使用最简单的liteorm。
 
 LiteOrm使用反射
+
+------------
+#其他相关
+
+##[RxAndroid](https://github.com/ReactiveX/RxAndroid)
+
+响应式编程,看完以下[教程](http://gank.io/post/560e15be2dca930e00da1083)绝对就会了
+
+##下拉刷新
+
+[pulltoRefresh](https://github.com/chrisbanes/Android-PullToRefresh)最老的下拉刷新的控件，现在已经不更新了，缅怀一下
+
+[Ultra](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)不知道为什么他的配图老是显示不全
+
+[BGARefreshLayout](https://github.com/bingoogolapple/BGARefreshLayout-Android)没有实际用过
+
+##侧滑返回上一界面
+
+[SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
+
+##仿ios的pickerview控件
+
+[PickerView](https://github.com/saiwu-bigkoo/Android-PickerView)
+
+##头部广告位的viewpager
+
+[ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
+
+##滚动标题
+
+[StickyHeaders](https://github.com/ShamylZakariya/StickyHeaders)
+
+##标题栏变色
+
+[SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
+
 
 
