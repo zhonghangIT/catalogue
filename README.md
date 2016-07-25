@@ -28,7 +28,7 @@ xutils
 -------
 ##图片缓存
 首发推荐fresco，facebook推出，支持gif以及webp支持度高，缺点jar包比较大<br/>
-[fresco](https://github.com/facebook/fresco)<br/>
+###[fresco](https://github.com/facebook/fresco)<br/>
 picasso square大礼包之一，对gif支持不好，对webp支持不好<br/>
 [picasso](https://github.com/square/picasso)<br/>
 glide google工程师私人项目，在google项目中有用到。<br/>
@@ -95,5 +95,20 @@ LiteOrm使用反射
 
 [SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
 
+
+##圆形图片库
+
+[CircleImageView](https://github.com/hdodenhof/CircleImageView)
+
+
+##仿gallery的recyclerview
+
+[CleverRecyclerView](https://github.com/luckyandyzhang/CleverRecyclerView)
+
+## 快速打包工具
+
+号称100个签名包只用5秒
+
+[PackerNgPlugin](https://github.com/mcxiaoke/packer-ng-plugin)
 
 
