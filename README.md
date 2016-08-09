@@ -1,19 +1,18 @@
-![长点心吧](https://github.com/zhonghangIT/catalogue/blob/master/img/2135203850.jpg?raw=true)
+
 ##Android知识点
-#基础知识
-[Intent使用](https://github.com/zhonghangIT/IntentUse)
-<br/>
-[基础控件](https://github.com/zhonghangIT/MyView)
 
-----------
-#直播
+##比较牛的分享库
 
-[直播xmind图]()
+#最新的控件[awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
+
+
+#最新的库[awesome-android-libraries](https://github.com/wasabeef/awesome-android-libraries)
 
 
 #使用的一些框架
 -----
-##网络连接<br/>
+##网络连接
+
 此处推荐使用okhttp＋retrofit联合使用，square大礼包
 
 [okhttp](https://github.com/square/okhttp)
@@ -87,6 +86,10 @@ LiteOrm使用反射
 
 [ConvenientBanner](https://github.com/saiwu-bigkoo/Android-ConvenientBanner)
 
+[AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
+
+[DecentBanner](https://github.com/chengdazhi/DecentBanner)
+
 ##滚动标题
 
 [StickyHeaders](https://github.com/ShamylZakariya/StickyHeaders)
@@ -96,14 +99,70 @@ LiteOrm使用反射
 [SystemBarTint](https://github.com/jgilfelt/SystemBarTint)
 
 
-##圆形图片库
+##图片库
 
 [CircleImageView](https://github.com/hdodenhof/CircleImageView)
 
+放大缩小图片的控件
 
-##仿gallery的recyclerview
+[PhotoView](https://github.com/chrisbanes/PhotoView)
 
+facebook出品
+
+[rebound](https://github.com/facebook/rebound)
+
+图片压缩库
+
+[Luban](https://github.com/Curzibn/Luban)
+
+图片的模糊效果库
+
+[Blurry](https://github.com/wasabeef/Blurry)
+
+图片剪切
+
+[uCrop]()
+
+加载大图
+
+[LargeImage]()
+
+添加倾斜标签
+
+[SimpleTagImageView]()
+
+图片移动
+
+[MovingImageView]()
+
+##recyclerview相关
+
+仿galley能够使一个布局居中显示
 [CleverRecyclerView](https://github.com/luckyandyzhang/CleverRecyclerView)
+
+快速构建recycler的adapter
+
+[BaseRecyclerViewAdapter](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
+
+标题居于上方的recyclerview
+
+[StickyRecyclerView](https://github.com/timehop/sticky-headers-recyclerview)
+
+##输入框相关
+
+发帖专用
+
+[richeditor-android](https://github.com/wasabeef/richeditor-android)
+
+
+##WebView相关
+js和native互相调用，基础知识
+
+[基础](https://github.com/zhonghangIT/MyWebView)
+
+框架webViewjavascripBridge
+
+[webViewjavascripBridge](https://github.com/lzyzsd/JsBridge)
 
 ## 快速打包工具
 
